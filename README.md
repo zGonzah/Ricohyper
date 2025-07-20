@@ -4,11 +4,16 @@
 HyperOS Ports For ALIOTH (POCO F3/MI 11X/Redmi K40) by zGonzah
 
 ## Download (19/07/2025)
-- [A15 RicoHyper PORT 2.0.205.0.VNKCNXM](https://pixeldrain.com/u/qQLJo4Wy)
+- [A15 RicoHyper PORT 2.0.205.0.VNKCNXM](https://pixeldrain.com/u/HBwPgcm8)
 
 ## Support Group
 - [Alex RG Ports](https://t.me/alexports)
 
+## Changelog 20/07/2025
+- Fixed Launcher
+- Fixed Fastboot script
+- Hybrid rom. (u can flash it through recovery or fastboot)
+  
 ## Changelog
 - Initial Build
 - Ported from Vermeer
